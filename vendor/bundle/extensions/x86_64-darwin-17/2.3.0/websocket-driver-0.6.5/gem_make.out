@@ -1,0 +1,15 @@
+current directory: /Users/nicolapunzi/Desktop/progetti/shopper/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/nicolapunzi/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20180219-1111-3d7s4c.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nicolapunzi/Desktop/progetti/shopper/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/nicolapunzi/Desktop/progetti/shopper/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/nicolapunzi/Desktop/progetti/shopper/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20180219-1111-1k9ks5i
